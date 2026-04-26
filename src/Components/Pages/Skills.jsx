@@ -37,7 +37,7 @@ const Skills = () => {
                     scrollTrigger: {
                         trigger: containerRef.current,
                         start: "top 80%",
-                        end: "top 40%",
+                        end: "bottom 20%",             
                         scrub: true, // ties animation to scroll for smoothness
                     },
                 }

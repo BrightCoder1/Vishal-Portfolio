@@ -1,0 +1,67 @@
+/* Section Styling */
+.experience-section {
+    background-color: #0b0b0b;
+    /* padding: 50px 20px; */
+    min-height: 40vh;
+    color: white;
+    text-align: center;
+}
+
+/* Title */
+.title {
+    font-size: 3rem;
+    color: #ff003f;
+    text-align: center;
+}
+
+/* Card */
+.experience-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    background: #292727;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-top: 3px solid #ff003f;
+    transition: transform 0.3s ease;
+}
+
+.experience-card:hover {
+    transform: scale(1.02);
+}
+
+/* Logo */
+.logo img {
+    width: 60px;
+    height: 60px;
+}
+
+/* Details */
+.details {
+    text-align: left;
+}
+
+.details h3 {
+    color: #22c55e;
+    margin: 0;
+}
+
+.role {
+    color: #f87171;
+    font-size: 14px;
+    margin: 5px 0 10px;
+}
+
+/* List */
+.details ul {
+    padding-left: 0;
+}
+
+.details li {
+    list-style: none;
+    font-size: 14px;
+    color: #cbd5f5;
+    margin-bottom: 5px;
+}

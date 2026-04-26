@@ -41,7 +41,7 @@ const Project = () => {
                         ease: "expo.out",
                         scrollTrigger: {
                             trigger: el,
-                            start: "top 85%",
+                            start: "top 80%",
                             end: "bottom 20%",
                             toggleActions: "play none none reverse",
                         },
@@ -61,7 +61,7 @@ const Project = () => {
                             <div className="p-card-box">
                                 <img className="p-card-img" src={project.projectimg} alt="" />
                                 <div className="hover-p">
-                                    <p style={{color:"#c7c5c5ff"}} className="hover-p-p">{project.info}</p>
+                                    <p style={{ color: "#c7c5c5ff" }} className="hover-p-p">{project.info}</p>
                                     <div className="hover-flex">
                                         <a href={project.sourcecode} className="hover-p-tag">
                                             Source Code

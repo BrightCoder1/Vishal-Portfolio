@@ -229,7 +229,7 @@ body {
 }
 
 .s-head {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #ff003f;
   text-align: center;
 }
@@ -352,16 +352,17 @@ body {
   overflow: hidden;
 }
 
-.hover-p-p{
+.hover-p-p {
   width: 90%;
   /* padding: 10px; */
   font-size: 14px;
 }
 
-.hover-flex{
+.hover-flex {
   display: flex;
   gap: 1rem;
 }
+
 .hover-p-tag {
   font-size: 15px;
   font-weight: bold;

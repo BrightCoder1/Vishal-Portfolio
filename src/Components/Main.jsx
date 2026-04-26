@@ -1,3 +1,4 @@
+import Experience from "./Experience"
 import Footer from "./Footer"
 import Form from "./Pages/Form"
 import Home from "./Pages/Home"
@@ -10,6 +11,7 @@ const Main = () => {
         <>
             <Home />
             <Home2 />
+            <Experience />
             <Skills />
             <Project />
             <Form />
