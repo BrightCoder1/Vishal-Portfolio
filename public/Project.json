@@ -1,0 +1,58 @@
+[
+    {
+        "projectName": "🍽️ Food Recipe Website",
+        "sourcecode": "https://github.com/BrightCoder1/Food_Recipes",
+        "projectimg": "/FoodRecipes.jpg",
+        "livelink": "No Live Link",
+        "info": "A food recipe website built using HTML, CSS, and JavaScript to explore, view, and learn delicious recipe preparations easily."
+    },
+    {
+        "projectName": "🏥 Hospital Management System",
+        "sourcecode": "https://github.com/BrightCoder1/Hospital-Management",
+        "projectimg": "/Hospital.jpg",
+        "livelink": "No Live Link",
+        "info": "A MERN-based hospital system managing patients, doctors, appointments, and staff records efficiently with a secure and scalable design."
+    },
+    {
+        "projectName": "🍔 Tasty Burger Website",
+        "sourcecode": "https://github.com/BrightCoder1/Tasty_Burger_Code",
+        "projectimg": "/Tasty Burger.jpg",
+        "livelink": "No Live Link",
+        "info": "A burger ordering platform using Node.js, Express, and MongoDB with features to browse, customize, and manage online orders."
+    },
+    {
+        "projectName": "🗂️ Task Management System",
+        "sourcecode": "https://github.com/BrightCoder1/Task-Manager",
+        "projectimg": "/Task management.jpg",
+        "livelink": "No Live Link",
+        "info": "A task tracking system built with Node.js and MongoDB allowing users to create, edit, delete, and update daily tasks."
+    },
+    {
+        "projectName": "🔳 QR Code Generator",
+        "sourcecode": "https://github.com/BrightCoder1/QR-Code-Generator",
+        "projectimg": "/QRCode.jpg",
+        "livelink": "No Live Link",
+        "info": "An HTML, CSS, and JavaScript-based app that generates instant QR codes for text, URLs, and custom input data."
+    },
+    {
+        "projectName": "📍 Live Location Tracker",
+        "sourcecode": "https://github.com/BrightCoder1/Live-Location",
+        "projectimg": "/Location.jpg",
+        "livelink": "No Live Link",
+        "info": "A web app for sharing real-time locations between users and calculating the distance between them accurately and quickly."
+    },
+    {
+        "projectName": "🛒 E-Commerce Website",
+        "sourcecode": "https://github.com/BrightCoder1/E-Commerce-Web",
+        "projectimg": "/image.png",
+        "livelink": "No Live Link",
+        "info": "A React.js e-commerce website featuring product listings, shopping cart functionality, and a modern, responsive shopping interface."
+    },
+    {
+        "projectName": "🏋️‍♂️ Gym Management Website",
+        "sourcecode": "https://github.com/BrightCoder1/Gym-Web",
+        "projectimg": "/GymWeb.jpg",
+        "livelink": "No Live Link",
+        "info": "A MERN-based gym website for managing members, trainers, workout plans, and booking fitness sessions efficiently online."
+    }
+]
