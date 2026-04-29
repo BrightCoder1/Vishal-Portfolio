@@ -10,8 +10,7 @@ const experiences = [
       "Developed an Employee Management System using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.",
       "Worked on backend APIs and database integration.",
       "Collaborated with team members to implement new features and improve performance."
-    ],
-    logo: "https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+    ]
   },
   {
     company: "Wave Techtronics",
@@ -21,8 +20,7 @@ const experiences = [
       "Completed intensive training in Data Structures and Algorithms.",
       "Solved real-world coding problems and improved problem-solving skills.",
       "Learned optimization techniques and algorithm design."
-    ],
-    logo: "https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+    ]
   }
 ];
 
@@ -33,11 +31,6 @@ const Experience = () => {
 
       {experiences.map((exp, index) => (
         <div className="experience-card" key={index}>
-          
-          <div className="logo">
-            <img src={exp.logo} alt={exp.company} />
-          </div>
-
           <div className="details">
             <h3>{exp.company}</h3>
             <p className="role">{exp.role}</p>

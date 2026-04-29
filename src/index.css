@@ -6,6 +6,7 @@ body {
   color: #fff;
   overflow-x: hidden;
   width: 100%;
+  font-family: "Titillium Web", sans-serif !important;
 }
 
 .navbar {
