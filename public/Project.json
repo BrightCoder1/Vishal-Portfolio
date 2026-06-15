@@ -54,5 +54,12 @@
         "projectimg": "/GymWeb.jpg",
         "livelink": "No Live Link",
         "info": "A MERN-based gym website for managing members, trainers, workout plans, and booking fitness sessions efficiently online."
+    },
+    {
+        "projectName": "Smart Learning Platform",
+        "sourcecode": "https://github.com/BrightCoder1/Smart-Learning-Platform-",
+        "projectimg": "/slp.jpg",
+        "livelink": "https://smart-learning-platform-lovat.vercel.app/",
+        "info": "Smart Learning Platform using MERN Stack is a professional web-based academic management system designed to manage student records, attendance, and educational activities efficiently through dedicated Admin, Teacher, and Student portals."
     }
 ]
